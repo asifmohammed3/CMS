@@ -3,7 +3,7 @@ import json
 import smtplib
 
 MY_EMAIL = "secureotpcms@gmail.com"
-MY_PASSWORD = 'projecthillview'
+MY_PASSWORD = ''
 
 
 def generate_otp():
